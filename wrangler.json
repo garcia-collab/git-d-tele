@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "git-d-tele",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e13aee62-589c-454a-8384-48c82a4c83c8",
+      "database_name": "git-d-tele"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
